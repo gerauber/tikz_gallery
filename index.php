@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TikZ Gallery</title>
-    <link rel="stylesheet" href="style.css" />
+    <!-- <link rel="stylesheet" href="style.css" /> -->
+    <link rel="stylesheet" href="../../style.css" />
 </head>
 <body>
     <header>
@@ -35,6 +36,12 @@
 
     </main>
 </body>
+
+
+<footer>
+        <p>&copy; 2024 G. Räuber. All rights reserved.</p>
+</footer>
+<!-- 
 <footer>
     <div class="footer-quote">
         <p>"Crafting ideas into visuals, one node at a time."</p>
@@ -45,7 +52,7 @@
     <div class="footer-copyright">
         <p>&copy; 2024 TikZ Gallery. All rights reserved.</p>
     </div>
-</footer>
+</footer> -->
 
 
 </html>
