@@ -12,6 +12,6 @@
         </a>
     </div>
 </div>
-<div class="button-container">
+<!-- <div class="button-container">
     <a href="../../index.php" class="custom-button">Home</a>
-</div>
+</div> -->
